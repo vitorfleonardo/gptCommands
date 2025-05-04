@@ -1,4 +1,4 @@
-# Comandos Mágicos para ChatGPT, Bard e Claude
+# Comandos Mágicos para ChatGPT, Bard e Claudee
 
 Copie e cole os comandos abaixo no chat do ChatGPT para que ele possa executar as tarefas.
 
